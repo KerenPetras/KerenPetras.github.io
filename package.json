@@ -1,5 +1,5 @@
 {
-  "name": "photographer-portfolio",
+  "name": "keren-petras-porfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,8 +18,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -46,7 +44,6 @@
   },
   "devDependencies": {
     "framer-motion": "^7.6.2",
-    "gh-pages": "^5.0.0",
     "nodemon": "^2.0.22",
     "react-icons": "^4.6.0",
     "react-router-dom": "^6.4.2",
