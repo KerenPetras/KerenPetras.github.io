@@ -66,7 +66,7 @@ const Portfolio = () => {
     <h5 className='card-title'>Israel Kababayan Explorers</h5>
     <p className='card-text'>project aimed at helping my parents' small business, which specializes in arranging trips for the Filipino-Israeli community. The project involves creating a website and online booking system to streamline the booking process and improve customer experience.</p>
     <a href='https://github.com/KerenPetras/IsraelKababayanExplorers' className='btn btn-primary' target='_blank'>GitHub on going</a>
-    <a href='' className='btn btn-primary' onClick={() => alert('Stay Tuned!')}>Demo Coming soon</a>
+    <a className='btn btn-primary' >Demo Coming soon</a>
   </div>
 </div>
           </div>
