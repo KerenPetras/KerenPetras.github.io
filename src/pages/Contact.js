@@ -20,7 +20,7 @@ const ContactForm = () => {
   const [state, handleSubmit] = useForm("mqkogvdl");
   if (state.succeeded) {
     return (
-      <div className="flex flex-col items-center justify-center h-screen">
+<div className="flex flex-col lg:flex-row h-screen items-center justify-start pt-36 gap-x-8 text-center lg:text-left">
         <div className="text-center">
           <h1 className="text-9xl font-bold">Thank You</h1>
           <h2>I'll get back to you as soon as possible.</h2>
